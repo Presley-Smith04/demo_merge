@@ -5,3 +5,5 @@ My favorite number is 12
 My name is Colin
 
 My favorite number is 6
+
+The best number is clearly 12
